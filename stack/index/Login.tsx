@@ -41,7 +41,7 @@ function Login(props:any) {
   const styles = StyleSheet.create({
     background:{
         flex:1,
-        backgroundColor:'lightgreen'
+        backgroundColor:'pink'
     },
     logo:{
         flex:0.4
